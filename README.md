@@ -5,7 +5,6 @@ This project is a **powerful dynamic web scraping tool** built using **Streamlit
 - 🌐 General websites and blogs  
 - 🧠 Wikipedia articles  
 - 🛍️ E-commerce platforms like Myntra  
-
 ---
 
 ## 🚀 Features
